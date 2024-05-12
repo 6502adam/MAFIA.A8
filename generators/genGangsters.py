@@ -356,7 +356,7 @@ gangsters_data_PL = [
      "Krwawa Mary", "ja", 1, 60, 10, 40, 3, 2300),
 
     # 6-10
-    ("Wysoki, muskularny facet z blizna na twarzy i zlotym zebem "
+    ("Rosly, muskularny facet z blizna na twarzy i zlotym zebem "
      "usmiecha sie do ciebie. Nazywa siebie Duzym Tonym. "
      "Zawsze ma przy sobie kij bejsbolowy.",
      "Duzy Tony", "go", 0, 70, 20, 35, 4, 2500), 
@@ -368,7 +368,7 @@ gangsters_data_PL = [
       "i siedzi z detonatorem. Nazywa sie Gonzo i jest geniuszem "
       "w poslugiwaniu sie bombami.", 
       "Gonzo", "go", 0, 10, 10, 80, 0, 1800), 
-    ("Mlody, zylasty facet w skorzanej kurtce i okularach przeciwslonecznych "
+    ("Mlody, zylasty koles w skorzanej kurtce i okularach przeciwslonecznych "
      "opiera sie o sciane. Ma na imie Spike i jest ryzykantem. " 
      "Uwielbia krasc samochody.", 
      "Spike", "go", 0, 40, 40, 40, 2, 1900), 
@@ -399,7 +399,7 @@ gangsters_data_PL = [
          "Mike", "go", 0, 30, 40, 55, 0, 2000), 
 
         # 16-20
-        ("Pulchna blondynka w rozowym swetrze macha do ciebie. "
+        ("Pulchna blondynka w rozowym sweterku macha do ciebie. "
          "Nazywa sie Betty i jest kierowca. " "Potrafi palic gume w kazdym pojezdzie.", 
          "Betty", "ja", 1, 40, 30, 40, 1, 1800), 
          ("Sredniej wielkosci brunet w szarym garniturze i kapeluszu " 
@@ -410,7 +410,7 @@ gangsters_data_PL = [
           "spiewa piosenke. Nazywa sie Tina i jest wampem. " 
           "Potrafi oczarowac kazdego.", 
           "Tina", "ja", 1, 20, 40, 50, 0, 1900), 
-        ("Otyly rudzielec w zielonym swetrze i spodniach " 
+        ("Otyly rudzielec w zielonym pulowerze i spodniach " 
          "zajada sie paczkiem. Na imię ma Bob i jest informatorem. " 
          "Wie wszystko, co dzieje sie w miescie.", 
          "Bob", "go", 0, 10, 20, 40, 0, 1200), 
@@ -421,12 +421,12 @@ gangsters_data_PL = [
 
         # 21-25
         ("Niski, szczuply mezczyzna w brazowym plaszczu i szaliku " 
-         "trzyma walizke. Nazywa sie Tim i jest ekspertem od materialow wybuchowych. " 
+         "trzyma walizke. To Tim, jest ekspertem od materialow wybuchowych. " 
          "Umie wszystko wysadzic w powietrze.", 
          "Tim", "go", 0, 20, 40, 40, 6, 1900), 
          ("Sredniej wielkosci ciemnoskora kobieta w czerwonym plaszczu i kapeluszu " 
           "trzyma torbe. Nazywa sie Ruby i jest paserka. " 
-          "Moze sprzedac wszystko, co przyniesiesz.", 
+          "Potrafi sprzedac wszystko, co przyniesiesz.", 
           "Ruby", "ja", 1, 30, 30, 45, 0, 1700), 
         ("Wysoki blondyn w niebieskim garniturze i muszce " 
          "usmiecha sie do ciebie. Na imie ma James i jest szpiegiem. " 
@@ -447,10 +447,10 @@ gangsters_data_PL = [
         "ale zdecydowanie budzacego strach ze wzgledu na swoje akrobatyczne strzaly.", 
         "Pistoletowy Henry", "go", 0, 40, 15, 60, 6, 3100),
         ("Jeff Smart wyglada jakby wyszedl prosto z komiksu, ale nie lekcewaz go. "
-         "Potrafi doprowadzic kazdego do szalu.",
+         "Potrafi kazdego doprowadzic do szalu.",
          "Jeff Smart", "go", 0, 40, 80, 15, 0, 2300),
         ("Fred Clever, wszechstronny zloczynca, gotow jest poswiecic wszystkich swoich przyjaciol. "
-         "Oczywiscie za niewielka rekompensate.",
+         "Za niewielkim wynagrodzeniem, ma sie rozumiec.",
          "Fred Clever", "go", 0, 10, 85, 50, 0, 2300),
         ("Skryte spojrzenie zza ciemnych okularow. "
          "Poker-Face to wiecej niz tylko zreczny gracz w karty.", 
@@ -461,7 +461,7 @@ gangsters_data_PL = [
          "rozaniec sprawil, ze juz wielu policjantow gryzie krwawy piach.", 
          "Kaznodzieja Samuel", "go", 0, 55, 60, 10, 0, 2300),
         ("Mister X, ubrany na czarno, to tajemnicza postac w ciemnosciach nocy. "
-         "Najwyrazniej doskonale zna metro w Londynie.",
+         "Najwyrazniej doskonale zna londynskie metro.",
         "Mister X", "go", 0, 30, 45, 60, 6, 3000)
 ]
 
